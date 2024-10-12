@@ -14,12 +14,15 @@ This midterm exam is designed to assess your understanding of Linear Regression 
 - Explain your choices and reasoning to the instructor.
 
 **Activities**
+
 **1. Dataset Assignment**
 - Each pair will be provided with links to specific datasets suitable for both Linear and Logistic Regression analyses.
+  
 **2. Dataset Analysis**
 - Explore the datasets thoroughly.
 - Identify all variables and understand their types (continuous, categorical).
 - Determine which variables are suitable as dependent variables for Linear and Logistic Regression.
+  
 **3. Preparation for Instructor Meeting**
 a. Dependent Continuous Variable for Linear Regression
 - Tell me the continuous variable from your dataset to use as the dependent variable in Linear Regression.
@@ -27,6 +30,7 @@ a. Dependent Continuous Variable for Linear Regression
 b. Categories for Logistic Regression
 - Tell me the categorical variable from your dataset to use as the dependent variable in Logistic Regression.
 - Prepare an explanation of why this variable is suitable for Logistic Regression.
+  
 **4. Instructor Meeting**
 - Before class dismissal, present the following to the instructor:
     - Explanation of the Topic: Brief overview of your assigned topics.
@@ -41,12 +45,14 @@ b. Categories for Logistic Regression
 - Document your methodology, code, and findings.
 
 **Activities**
+
 **1. GitHub Repository Setup**
 - Create a new GitHub repository named MeXE402_Midterm_[YourNames].
 - Include a README.md file that covers:
     - Introduction: Overview of Linear and Logistic Regression.
     - Dataset Description: Details about the datasets used.
     - Project Objectives: What you aim to achieve with your analyses.
+      
 **2. Linear Regression Analysis**
 - Perform Linear Regression using the selected continuous dependent variable.
   - Tasks:
@@ -54,6 +60,7 @@ b. Categories for Logistic Regression
     - Model Implementation: Use appropriate libraries (e.g., Scikit-learn in Python).
     - Evaluation Metrics: Calculate R-squared, Mean Squared Error, etc.
     - Interpretation: Explain the significance of coefficients and the model's predictive power.
+      
 **3. Logistic Regression Analysis**
 - Perform Logistic Regression using the selected categorical dependent variable.
   - Tasks:
@@ -62,6 +69,7 @@ b. Categories for Logistic Regression
     - Evaluation Metrics: Calculate Accuracy
     - Visualization: Plot confusion matrices
     - Interpretation: Discuss the model's ability to classify and the importance of features.
+      
 **4. Documentation**
 - Code Comments: Ensure all code is well-commented and readable.
 - Methodology: Document each step taken during analysis.
@@ -73,11 +81,13 @@ b. Categories for Logistic Regression
 - Finalize your GitHub repository.
 - Submit your completed project.
 ### Activities
+
 **1. Repository Review**
 - Proofread all written content for clarity and grammatical accuracy.
 - Verify that all links, images, and references are working.
 - Ensure that the repository is well-organized with clear directories for code, data, and documentation.
-2. Submission
+- 
+**2. Submission**
 - Make me a collaborator of the repository.
 - Deadline: October 25, 2024, by 11:59 PM.
 - Accessibility: Make sure the repository is private for now.
@@ -88,21 +98,26 @@ b. Categories for Logistic Regression
 - Focus on explaining your methodology, findings, and insights gained.
 
 ## Evaluation Criteria
+
 **1. Understanding of Concepts (20%)**
 - Accurate identification and justification of dependent variables.
 - Demonstrated comprehension of Linear and Logistic Regression principles.
+  
 **2. Implementation and Analysis (40%)**
 - Correct application of regression techniques.
 - Quality and efficiency of code.
 - Appropriate use of evaluation metrics and interpretation of results.
+  
 **3. Documentation and Presentation (10%)**
 - Clarity and completeness of the README.md.
 - Effectiveness of visual aids.
 - Logical organization and flow of information.
+  
 **4. Professionalism and Timeliness (10%)**
 - Adherence to submission guidelines.
 - Overall presentation and neatness of the repository.
 - Collaboration and equal contribution between partners.
+  
 **5. Presentaton of the Repository and Findings (20%)**
 
 ### Linear Regression
